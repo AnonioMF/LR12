@@ -4,7 +4,7 @@ public class Main // Обьявляем основной класс
     public static void main(String args[]) // Основной метод класса
     {
         Scanner in = new Scanner(System.in);
-        System.out.println("Введите число для проверки:");
+        System.out.println("Введите числаааа для проверки:");
 
         int num=in.nextInt(); // передаем значение переменной из системы
         in.close(); // Закрываем ввод данных
